@@ -1,3 +1,5 @@
+![](https://i.imgur.com/GGkK8UG.png)
+
 ***This is my own personal Hackintosh settings and files that works on my setup.*** <br />
 
 |Hardware|My Setup|
@@ -23,3 +25,26 @@
 |**USB**|:white_check_mark:|
 |**CD/DVD Reader**|:white_check_mark:|
 |**SSD m.2**|:white_check_mark:|
+
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
