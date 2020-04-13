@@ -27,18 +27,21 @@
 |**SSD m.2**|:white_check_mark:|
 
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+***Some random screenshots:*** <br />
+
+![](https://i.imgur.com/qwA3KBA.png)
+![](https://i.imgur.com/onrO6KV.png)
+![](https://i.imgur.com/7zudt2B.png)
+![](https://i.imgur.com/mW0vX5v.png)
+![](https://i.imgur.com/j0GNHHF.png)
+![](https://i.imgur.com/DkjUcVe.png)
+![](https://i.imgur.com/uO9MN8b.png)
+![](https://i.imgur.com/o0IjFEQ.png)
+![](https://i.imgur.com/ehayokh.png)
+![](https://i.imgur.com/oYUsw7I.png)
+![](https://i.imgur.com/CfDdFSF.png)
+![](https://i.imgur.com/46Y3EGt.png)
+![](https://i.imgur.com/nbri9Ad.png)
 ![]()
 ![]()
 ![]()
