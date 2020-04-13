@@ -1,6 +1,6 @@
 ***This is my ony personal Hackintosh settings and files to work with my setup.*** <br />
 
-|File|Action|
+|FileAction|
 |---|---|
 |**Motherboard**|Asus Z97M-PLUS|
 |***CPU/Processor**|Intel® Core™ i5-4690K|
