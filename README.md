@@ -15,9 +15,9 @@
 
 |What's working:|Normally|
 |---|---|
-|**Nvidia Graphic Card**|Okay|
-|**Audio**|Okay|
-|**Ethernet**|Okay|
-|**USB**|Okay|
-|**CD/DVD Reader**|Okay|
-|**SSD m.2**|At full blast|
+|**Nvidia Graphic Card**|:white_check_mark:|
+|**Audio**|:white_check_mark:|
+|**Ethernet**|:white_check_mark:|
+|**USB**|:white_check_mark:|
+|**CD/DVD Reader**|:white_check_mark:|
+|**SSD m.2**|:white_check_mark:|
