@@ -16,8 +16,6 @@
 
 ***Down below is the list of the things that are working on High Sierra:*** <br />
 
-<br />
-
 |What's working:|Normally|
 |---|---|
 |**Nvidia Graphic Card**|:white_check_mark:|
