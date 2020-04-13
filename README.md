@@ -1,3 +1,5 @@
+<br />
+
 :fire: ***This is my own personal Hackintosh settings and files that works on my setup.*** :fire: <br />
 
 <br />
