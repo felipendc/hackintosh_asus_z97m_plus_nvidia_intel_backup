@@ -2,7 +2,7 @@
 
 |Hardware|My Setup|
 |---|---|
-|**Motherboard**|Asus Z97M-PLUS|
+|**Motherboard**|Asus Z97M-PLUS-BR|
 |**CPU / Processor**|Intel® Core™ i5-4690K|
 |**Graphic Card**|EVGA NVIDIA GeForce GTX 970|
 |**Graphic Card Driver**|Nvidia (17G65)|
