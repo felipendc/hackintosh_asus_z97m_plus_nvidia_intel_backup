@@ -7,6 +7,7 @@
 |**Motherboard**|Asus Z97M-PLUS-BR|
 |**CPU / Processor**|Intel® Core™ i5-4690K|
 |**Graphic Card**|EVGA NVIDIA GeForce GTX 970|
+|**Memory Ram**|32GB DDR3 1600mhz Kingston HyperX Fury|
 |**Graphic Card Driver**|Nvidia (17G65)|
 |**Storage**|SSD m.2 Kingston A1000|
 |**macOS**|High Sierra - 10.13.6 (17G65)|
