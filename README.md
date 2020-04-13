@@ -27,6 +27,8 @@
 |**CD/DVD Reader**|:white_check_mark:|
 |**SSD m.2**|:white_check_mark:|
 
+<br />
+<br />
 
 ***Some random screenshots:*** <br />
 
@@ -43,12 +45,4 @@
 ![](https://i.imgur.com/CfDdFSF.png)
 ![](https://i.imgur.com/46Y3EGt.png)
 ![](https://i.imgur.com/nbri9Ad.png)
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+
