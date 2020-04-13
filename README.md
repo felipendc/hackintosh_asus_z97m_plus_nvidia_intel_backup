@@ -10,7 +10,9 @@
 |**macOS**|High Sierra - 10.13.6 (17G65)|
 
 <br />
+
 ***Down below is the list of the things that are working on High Sierra:*** <br />
+
 <br />
 
 |What's working:|Normally|
