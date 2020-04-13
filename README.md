@@ -2,8 +2,8 @@
 
 |Setup detail|
 |---|---|
-|- [x] ***Motherboard:***|Asus Z97M-PLUS|
-|- [x] ***CPU/Processor:***|Intel® Core™ i5-4690K|
-|- [x] ***Graphic Card:***|EVGA NVIDIA GeForce GTX 970|
-|- [x] ***Storage:***|SSD Kingston A1000|
-|- [x] ***macOS:***|High Sierra|
+|***Motherboard:***|Asus Z97M-PLUS|
+|***CPU/Processor:***|Intel® Core™ i5-4690K|
+|***Graphic Card:***|EVGA NVIDIA GeForce GTX 970|
+|***Storage:***|SSD Kingston A1000|
+|***macOS:***|High Sierra|
