@@ -1,6 +1,7 @@
+:fire: ***This is my own personal Hackintosh settings and files that works on my setup.*** :fire: <br />
 ![](https://i.imgur.com/GGkK8UG.png)
 
-***This is my own personal Hackintosh settings and files that works on my setup.*** <br />
+This is my Setup:
 
 |Hardware|My Setup|
 |---|---|
