@@ -2,6 +2,10 @@
 
 :fire: ***This is my own personal Hackintosh settings and files that works on my setup.*** :fire:
 
+:open_file_folder: ***Here you will find my "personal files backup":*** :open_file_folder:
+>https://drive.google.com/drive/folders/1DMLqpuuK7p1_NAG1Y9FqpqXId1_m3-Go?usp=sharing
+
+
 |Hardware|My Setup|
 |---|---|
 |**Motherboard**|Asus Z97M-PLUS-BR|
