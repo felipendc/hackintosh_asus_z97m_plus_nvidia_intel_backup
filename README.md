@@ -2,7 +2,9 @@
 
 ***Quick Tip: How to mount the EFI folder from a Disk Driver or USB Stick using Linux:.***
 
-> sudo fdisk -l
+
+> List disks: sudo fdisk -l <br />
+
 > Linux syntax: sudo mount /dev/PARTITION-ID /MOUNT-LOCAL <br />
 > Example: sudo mount /dev/sdd1 /media <br />
 
