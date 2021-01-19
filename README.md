@@ -3,8 +3,8 @@
 ***Quick Tip: How to mount the EFI folder from a Disk Driver or USB Stick using Linux:.***
 
 > sudo fdisk -l
-> Linux syntax: sudo mount /dev/PARTITION-ID /MOUNT-LOCAL
-> Example: sudo mount /dev/sdd1 /media
+> Linux syntax: sudo mount /dev/PARTITION-ID /MOUNT-LOCAL <br />
+> Example: sudo mount /dev/sdd1 /media <br />
 
 
 :fire: ***This is my own personal Hackintosh settings and files that works on my setup.*** :fire:
