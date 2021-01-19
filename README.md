@@ -1,5 +1,12 @@
 ![](https://i.imgur.com/GGkK8UG.png)
 
+***Quick Tip: How to mount the EFI folder from a Disk Driver or USB Stick using Linux:.***
+
+> sudo fdisk -l
+> Linux syntax: sudo mount /dev/PARTITION-ID /MOUNT-LOCAL
+> Example: sudo mount /dev/sdd1 /media
+
+
 :fire: ***This is my own personal Hackintosh settings and files that works on my setup.*** :fire:
 
 :open_file_folder: ***Here you will find my "personal files backup":*** :open_file_folder:
