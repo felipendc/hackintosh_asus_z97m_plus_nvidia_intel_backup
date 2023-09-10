@@ -1,17 +1,25 @@
-![](https://i.imgur.com/GGkK8UG.png)
+![](https://i.imgur.com/SmQeONh.png)
+
+🎖️ **Special thanks to:** 🎖️
+<br />
+> "Max1974" and "hnanoto" from "Hackintosh and Beyond Discord Server"<br />
+> for helping me to upgrade from Clover to OpenCore.<br />
+> [**Discord Server:** "Hackintosh and Beyond"](https://discord.gg/Vt5hjrgD)
+
+<br />
+<br />
 
 ***Quick Tip: How to mount the EFI folder from a Disk Driver or USB Stick using Linux:.***
 
-
-> *List disks:* sudo fdisk -l <br />
-> *Linux syntax:* sudo mount /dev/PARTITION-ID /MOUNT-LOCAL <br />
-> *Example:* sudo mount /dev/sdd1 /media <br />
+> **List disks:** sudo fdisk -l <br />
+> **Linux syntax:** sudo mount /dev/PARTITION-ID /MOUNT-LOCAL <br />
+> **Example:** sudo mount /dev/sdd1 /media <br />
 
 
 :fire: ***This is my own personal Hackintosh settings and files that works on my setup.*** :fire:
 
 :open_file_folder: ***Here you will find my "personal files backup":*** :open_file_folder:
->drive.google.com/drive/folders/1DMLqpuuK7p1_NAG1Y9FqpqXId1_m3-Go?usp=sharing
+>Coming Soon!
 
 
 |Hardware|My Setup|
@@ -19,10 +27,11 @@
 |**Motherboard**|Asus Z97M-PLUS-BR|
 |**CPU / Processor**|Intel® Core™ i5-4690K|
 |**Graphic Card**|EVGA NVIDIA GeForce GTX 970|
-|**Memory Ram**|32GB DDR3 1600mhz Kingston HyperX Fury|
+|**Memory Ram**|16GB DDR3 1600mhz Kingston HyperX Fury|
 |**Graphic Card Driver**|Nvidia (17G65)|
-|**Storage**|SSD m.2 Kingston A1000|
+|**Storage**|HDD SATA|
 |**macOS**|High Sierra - 10.13.6 (17G65)|
+
 
 <br />
 
@@ -30,52 +39,37 @@
 
 |What's working:|Normally|
 |---|---|
+|**OPENCORE 0.9.4**|:white_check_mark:|
 |**Nvidia Graphic Card**|:white_check_mark:|
+|**Nvidia Graphic HDMI Audio**|:white_check_mark:|
 |**Audio**|:white_check_mark:|
+|**BLUETOOTH 5.2 AX200**|:white_check_mark:|
+|**WIFI 6 AX200**|:white_check_mark:|
 |**Ethernet**|:white_check_mark:|
-|**USB**|:white_check_mark:|
 |**CD/DVD Reader**|:white_check_mark:|
-|**SSD m.2**|:white_check_mark:|
+|**USB 2.0 MAPPED**|:white_check_mark:|
+|**USB 3.0 MAPPED**|:white_check_mark:|
+|**CPU ENERGY PROFILES**|:white_check_mark:|
+|**USB 2.0 and 3.0 ENERGY PROFILES (High Speed Transfers)**|:white_check_mark:|
+|**HD SATA**|:white_check_mark:|
+|**REQUIRED ACPI AML FILES**|:white_check_mark:|
 
 <br />
 <br />
 
 ***Some random screenshots:*** <br />
 
-![](https://i.imgur.com/qwA3KBA.png)
-![](https://i.imgur.com/onrO6KV.png)
-![](https://i.imgur.com/7zudt2B.png)
-![](https://i.imgur.com/mW0vX5v.png)
-![](https://i.imgur.com/j0GNHHF.png)
-![](https://i.imgur.com/DkjUcVe.png)
-![](https://i.imgur.com/uO9MN8b.png)
-![](https://i.imgur.com/o0IjFEQ.png)
-![](https://i.imgur.com/ehayokh.png)
-![](https://i.imgur.com/oYUsw7I.png)
-![](https://i.imgur.com/CfDdFSF.png)
-![](https://i.imgur.com/46Y3EGt.png)
-![](https://i.imgur.com/nbri9Ad.png)
-![](https://i.imgur.com/xjfQXME.png)
-![](https://i.imgur.com/gt1Ng6j.png)
-![](https://i.imgur.com/oWxMJXx.png)
-![](https://i.imgur.com/nnhX9fR.png)
-![](https://i.imgur.com/VQPKjAf.png)
-![](https://i.imgur.com/KJnr7CC.png)
-![](https://i.imgur.com/vfCSVLq.png)
-![](https://i.imgur.com/2jUfm46.png)
-![](https://i.imgur.com/S14Vb1Q.png)
-![](https://i.imgur.com/k7j4Sdi.png)
-![](https://i.imgur.com/E5AZDfG.png)
-![](https://i.imgur.com/w7SK7sz.png)
-![](https://i.imgur.com/FE7EvwV.png)
-![](https://i.imgur.com/kL4MTEy.png)
-![](https://i.imgur.com/Mwj6SBH.png)
-![](https://i.imgur.com/t3Ki6Ew.png)
+![](https://i.imgur.com/XIdyf36.png)
+![](https://i.imgur.com/NWdoXPO.png)
+![](https://i.imgur.com/WkBCa3o.png)
+![](https://i.imgur.com/WhLHB8X.png)
+![](https://i.imgur.com/3eLAzbj.png)
+![](https://i.imgur.com/eTkJ4hD.png)
+![](https://i.imgur.com/TT5N09A.png)
+![](https://i.imgur.com/BC75mQ7.png)
+![](https://i.imgur.com/oManpM1.png)
+![](https://i.imgur.com/1RWSBsg.png)
 
-![](https://i.imgur.com/D67Sv2t.png)
-![](https://i.imgur.com/6ks01Xr.png)
-![](https://i.imgur.com/L0toZcv.png)
-![](https://i.imgur.com/0x7IMJF.png)
-![](https://i.imgur.com/ZijKvk6.png)
+
 
 
