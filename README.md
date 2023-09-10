@@ -1,10 +1,18 @@
 ![](https://i.imgur.com/SmQeONh.png)
 
-🎖️ **Special thanks to:** 🎖️
+**SPECIAL THANKS TO:** 🎖️🎖️🎖️
 <br />
 > "Max1974" and "hnanoto" from "Hackintosh and Beyond Discord Server"<br />
 > for helping me to upgrade from Clover to OpenCore.<br />
 > [**Discord Server:** "Hackintosh and Beyond"](https://discord.gg/Vt5hjrgD)
+> <br />
+> <br />
+>  Gabriel Luchina from Universo Hackintosh YouTube Channel<br />
+> for providing the Intel 4th Haswell OpenCore Base.<br />
+> [**YouTube Channel:** "Universo Hackintosh"](https://www.youtube.com/@UniversoHackintosh)
+> <br />
+> <br />
+> **And thank you for all the other ones who's working hard for making Hackintosh possible!**
 
 <br />
 <br />
