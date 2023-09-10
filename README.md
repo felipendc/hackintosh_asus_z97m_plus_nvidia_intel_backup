@@ -40,12 +40,12 @@
 |What's working:|Normally|
 |---|---|
 |**OPENCORE 0.9.4**|:white_check_mark:|
-|**Nvidia Graphic Card**|:white_check_mark:|
-|**Nvidia Graphic HDMI Audio**|:white_check_mark:|
-|**Audio**|:white_check_mark:|
+|**NVIDIA GRAPHIC CARD WEBDRIVER**|:white_check_mark:|
+|**NVIDIA GRAPHIC HDMI AUDIO**|:white_check_mark:|
+|**AUDIO ALC887 OUTPUT**|:white_check_mark:|
 |**BLUETOOTH 5.2 AX200**|:white_check_mark:|
 |**WIFI 6 AX200**|:white_check_mark:|
-|**Ethernet**|:white_check_mark:|
+|**ETHERNET**|:white_check_mark:|
 |**CD/DVD Reader**|:white_check_mark:|
 |**USB 2.0 MAPPED**|:white_check_mark:|
 |**USB 3.0 MAPPED**|:white_check_mark:|
