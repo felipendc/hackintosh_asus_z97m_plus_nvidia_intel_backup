@@ -47,7 +47,7 @@
 
 |What's working:|Normally|
 |---|---|
-|**OPENCORE 0.9.4**|:white_check_mark:|
+|**OPENCORE 0.9.5**|:white_check_mark:|
 |**NVIDIA GRAPHIC CARD WEBDRIVER**|:white_check_mark:|
 |**NVIDIA GRAPHIC HDMI AUDIO**|:white_check_mark:|
 |**AUDIO ALC887 OUTPUT**|:white_check_mark:|
