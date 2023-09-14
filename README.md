@@ -57,8 +57,8 @@
 |**CD/DVD Reader**|:white_check_mark:|
 |**USB 2.0 MAPPED**|:white_check_mark:|
 |**USB 3.0 MAPPED**|:white_check_mark:|
-|**CPU ENERGY PROFILES**|:white_check_mark:|
-|**USB 2.0 and 3.0 ENERGY PROFILES (High Speed Transfers)**|:white_check_mark:|
+|**Intel® Core™ i5-4690K POWER MANAGEMENT TABLES**|:white_check_mark:|
+|**USB 2.0 and 3.0 POWER MANAGEMENT TABLES (High Speed Transfers)**|:white_check_mark:|
 |**HD SATA**|:white_check_mark:|
 |**REQUIRED ACPI AML FILES**|:white_check_mark:|
 
