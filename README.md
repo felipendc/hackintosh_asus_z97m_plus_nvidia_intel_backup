@@ -8,7 +8,7 @@
 > <br />
 > <br />
 >  Gabriel Luchina from Universo Hackintosh YouTube Channel<br />
-> for providing the Intel 4th Haswell OpenCore Base.<br />
+> for providing the Intel 4th Generation Haswell OpenCore Base.<br />
 > [**YouTube Channel:** "Universo Hackintosh"](https://www.youtube.com/@UniversoHackintosh)
 > <br />
 > <br />
